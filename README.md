@@ -1,6 +1,7 @@
 # 📱 Telegram UI/UX Project
 
 Hello Everyone, Hope you're all doing well;
+
 This project is a **UI/UX wireframe and prototype** of the Telegram app, designed in **Figma** as part of my **User Interface Design Lab final project**.
 The goal was to recreate Telegram’s core user experience, while practicing design principles such as **consistency, usability, and visual hierarchy**.
 
