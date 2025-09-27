@@ -11,6 +11,7 @@ The goal was to recreate Telegram’s core user experience, while practicing des
 * **Total Pages**: 10
 * **Time Spent**: ~60 hours
 * **Status**: *Almost Complete*
+* **Time of the Year**: *2025*
 
 This project covers the **end-to-end flow** of using Telegram:
 
